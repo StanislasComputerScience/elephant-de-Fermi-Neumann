@@ -1,4 +1,17 @@
-# elephant-de-Fermi-et-Neuman
-![Éléphant de Fermi et Neumann](./epicycles_animation.gif) est une animation utilisant les séries de Fourier pour reconstruire les contours d'un éléphant à partir d'une image.
+# Elephant de Fermi et Neumann
+Une animation montrant le dessin de l'éléphant de Fermi et Neumann généré à l'aide des épicycles en python.
 
-réalisée en python, inspirée par la vidéo de El Jj: https://www.youtube.com/watch?v=uazPP0ny3XQ&t=627s 
+![Éléphant de Fermi et Neumann](./epicycles_animation.gif)
+
+## Description
+
+Ce projet illustre la méthode des épicycles pour reconstruire un contour à partir de séries de Fourier obtenuees à partir du dessin :
+![Éléphant de Fermi et Neumann](./elephant.png)
+
+## Installation
+Clonez le repository et exécutez `python3 dessine_elephant.py` pour générer l'animation.
+
+dépendances cf le fichier requirements.txt
+
+## Contributeurs
+Moi même ;)
